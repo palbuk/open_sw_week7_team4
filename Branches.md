@@ -1,6 +1,6 @@
 # Chapter Branches
-## Creating Branches
-'''bash
+## 3. Creating Branches
+```bash
 
 git checkout Go to the birthday
 
