@@ -6,7 +6,7 @@ git checkout Go to the birthday
 
 git branch birthday
 
-git checkout Go to concert
+git checkout Go to the concert
 
 git branch concert
 
