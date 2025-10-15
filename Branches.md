@@ -56,4 +56,17 @@ git branch -D friend
 git branch -D music
 git branch -D ice-cream
 ```
+## 6. Moving branches around
+```bash
+git checkout baguette
+git reset --hard You eat the baguette
+
+git checkout coffee
+git reset --hard You drink the coffee
+
+git checkout donut
+## You ate a donut 수정
+git add .
+git commit
+#commit You eat a donut으로 수정
 
