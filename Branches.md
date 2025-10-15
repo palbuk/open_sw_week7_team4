@@ -12,6 +12,14 @@ git checkout Little sister does something
 git add piggy_bank
 git commit piggy_bank
 ```
+## 2. Make parallel commits
+```bash
+git checkcout HEAD~2
+# case/lion 수정
+git add .
+git commit 
+
+git checkout Little sister does something
 ## 3. Creating Branches
 ```bash
 
