@@ -47,5 +47,12 @@ git checkout concert
 git add.
 
 git commit -m "modified concert"
+```
+## 5. Deleting branches
+```bash
+git checkout refs/heads/leap
 
+git branch -D friend
+git branch -D music
+git branch -D ice-cream
 
