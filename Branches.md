@@ -20,6 +20,7 @@ git add .
 git commit 
 
 git checkout Little sister does something
+```
 ## 3. Creating Branches
 ```bash
 
