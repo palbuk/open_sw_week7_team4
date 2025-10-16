@@ -3,7 +3,7 @@
 ### 1. Moving through time
 ```bash
 git checkcout Little sister does something
-# little sister 수정
+# little sister 수정 우클릭으로 하면 주소 나옴
 git add little_sister
 git commit little_sister
 
