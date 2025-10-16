@@ -4,8 +4,9 @@
 ```bash
 git checkcout Little sister does something
 # little sister 수정 우클릭으로 하면 주소 나옴
-git add little_sister
-git commit little_sister
+# Has 10coins를 piggyback에 추가
+git add .
+git commit 
 
 git checkout Little sister does something
 
@@ -72,7 +73,8 @@ git commit
 #commit You eat a donut으로 수정
 ```
 
-## Merge
+# Merge
+## Chapter Merge
 ### 1.Merging timelines
 ```bash
 git merge faf956f527dbba524e37253fdc11706b5d04c5d6
@@ -83,7 +85,7 @@ git merge a80b36b4c682056858a6c517282faa0cdf96d7f0
 git switch main
 git merge muesli
 git merge pancakes
-#충돌 해결 <<<>>> === 지우기?
+#충돌 해결 <<<>>> === 지우기
 git add .
 git commit
 ```
