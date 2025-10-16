@@ -9,3 +9,10 @@ rm tiny_web
 ```
 
 ### 2. Interior design
+
+```
+touch sofa
+touch desk
+```
+add sofa description to "yellow"
+add desk description to "yellow"
