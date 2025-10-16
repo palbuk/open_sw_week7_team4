@@ -70,4 +70,20 @@ git checkout donut
 git add .
 git commit
 #commit You eat a donut으로 수정
+```
 
+## Merge
+### 1.Merging timelines
+```bash
+git merge faf956f527dbba524e37253fdc11706b5d04c5d6
+git merge a80b36b4c682056858a6c517282faa0cdf96d7f0
+```
+### 2. Contradictions
+```bash
+git switch main
+git merge muesli
+git merge pancakes
+#충돌 해결 <<<>>> === 지우기?
+git add .
+git commit
+```
